@@ -1,5 +1,4 @@
 #include <iostream>
-#include <algorithm>
 #include "counter/SubsequenceCounter.h"
 #include "counter/SimpleSubsequenceCounter.h"
 
